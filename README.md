@@ -1,12 +1,12 @@
 [![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQHPZhfEptXi6Q/profile-displaybackgroundimage-shrink_350_1400/0/1654776093224?e=1663200000&v=beta&t=er22iAQ0QeFRvl6eFXgNTdjmr9t-WA4ETPwTYWssMjA)]()
 
-### Hi, 👋This is Santosh
+### Hi, 👋This is Gopal
 
-- 🤔 I'm currently a student at IIEST Shibpur, in Department of Information Technology
-- 🔭 I’m currently working on Deep Learning 
+- 🤔 I'm currently a student at IIT(BHU), Varanasi
+- 🔭 I’m currently working on Java Technologies
 - 🌱 I’m currently learning Frontend and Backend Developement
 - 👯 I’m looking to collaborate on any technology
-- 📫 How to reach me: mishrasantoh2105@gmail.com
+- 📫 How to reach me: gopalkrishujaiswal2030@gmail.com
 <hr>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
