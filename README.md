@@ -6,10 +6,15 @@
 - 🔭 I’m currently working on Java Technologies
 - 🌱 I’m currently learning Frontend and Backend Developement
 - 👯 I’m looking to collaborate on any technology
-- 📫 How to reach me: gopalkrishujaiswal2030@gmail.com
+- 📫 How to reach me: gopaljaiswal20192023@gmail.com
 <hr>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h3 align="left">Featured Projects:</h3>
+
+- 🤖 **[VisionAI](https://github.com/iitian-gopu/visionai)** — Multi-agent GenAI workspace that routes each request to a specialized agent (chat, web search, coding, PDF RAG, document/PPT generation, image generation & understanding), orchestrated with LangGraph. React + Node.js microservices, Qdrant, Redis, MongoDB, Docker on AWS. [Live demo](https://visionai-frontend-hvi0.onrender.com)
+- 📈 **[algo-platform](https://github.com/iitian-gopu/algo-platform)** — Multi-asset algorithmic trading stack (India-first, mid-frequency: 1-minute to daily). Monorepo of Python packages covering market-data ingest, feature engineering, event-driven backtesting, strategy research & walk-forward, risk gates / kill-switch, paper & live trading, and a cron-driven orchestrator with a run journal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
