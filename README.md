@@ -385,14 +385,22 @@ S3 artifact storage, reverse-proxy routing, and streamed build logs.
 <div align="center">
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=iitian-gopu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7053C1&amp;icon_color=7053C1&amp;text_color=808080&amp;rank_icon=github"
-  alt="GitHub stats"
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iitian-gopu&amp;theme=github_dark"
+  alt="GitHub profile summary"
+/>
+
+<br/>
+
+<img
+  height="200"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iitian-gopu&amp;theme=github_dark"
+  alt="Repositories per language"
 />
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitian-gopu&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7053C1&amp;text_color=808080"
-  alt="Top languages"
+  height="200"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iitian-gopu&amp;theme=github_dark"
+  alt="Most-committed languages"
 />
 
 <br/>
