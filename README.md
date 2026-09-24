@@ -11,12 +11,15 @@
 
 <br/>
 
-<img
-  src="./assets/ai-student-avatar.png"
-  alt="AI-style developer avatar"
-  width="160"
-  height="160"
-/>
+
+<div align="center">
+  <img
+    src="https://api.dicebear.com/9.x/notionists/svg?seed=GopalJaiswal&backgroundColor=0d1117"
+    alt="Gopal Jaiswal - AI Developer Avatar"
+    width="160"
+    height="160"
+  />
+</div>
 
 <br/><br/>
 
