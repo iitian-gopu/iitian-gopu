@@ -22,14 +22,14 @@
 <h2>Hey there! I'm Gopal 👋</h2>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B9DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+Engineer;AI+%26+LLM+Engineer;Quant+Systems+Builder;Full-Stack+Developer;Building+Intelligent+Systems"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B9DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Analyst+%40+Goldman+Sachs;AI+%26+Agentic+Systems+Engineer;Quant+Systems+Builder;Distributed+Systems+%26+Backend"
   alt="Animated typing introduction"
 />
 
 <br/>
 
 <p>
-  <b>🎓 IIT (BHU) Varanasi '23</b>
+  <b>🏦 Analyst @ Goldman Sachs</b> &nbsp;·&nbsp; <b>🎓 IIT (BHU) Varanasi '23</b>
 </p>
 
 <p>
@@ -56,6 +56,14 @@
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
 </a>
 
+<a href="https://portfolio-gopal-jaiswals-projects.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7053C1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://portfolio-gopal-jaiswals-projects.vercel.app/resume.pdf">
+  <img src="https://img.shields.io/badge/Résumé-Download-16A34A?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé"/>
+</a>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/AI-Multi--Agent_Systems-7C3AED?style=flat-square" alt="Multi-Agent AI"/>
@@ -71,17 +79,66 @@
 
 ## 👨‍💻 About Me
 
-I'm **Gopal Jaiswal**, a software engineer and **IIT (BHU) Varanasi** graduate passionate about building intelligent systems and turning complex engineering problems into useful products.
+Software engineer working where **AI meets finance**. At **Goldman Sachs** I build agentic AI research tooling for Investment Banking and ML-driven analytics for Equity Derivatives. Before that I scaled assessment and semantic-search systems in ed-tech, and a multi-tenant EMR platform in health-tech.
 
-My interests span **Agentic AI, LLM applications, quantitative trading, backend engineering, distributed systems, and cloud infrastructure**.
+- 🏦 **Analyst @ Goldman Sachs** — Banker Copilot (LangGraph · AWS Bedrock · pgvector) and options analytics in C++/Golang/Python.
+- 🤖 Building **VisionAI**, a multi-agent AI workspace on LangGraph with RAG and multimodal LLMs.
+- 📈 Building a **Quant Trading & Research Platform** — market-data pipelines, event-driven backtesting, walk-forward ML and pre-trade risk.
+- ⚡ Scaled an assessment engine to **100K+ concurrent users** — latency **−40%**, throughput **+35%**.
+- 🔍 Built semantic search over **2M+ documents** — duplicates down **95%**.
+- 🎓 **B.Tech, IIT (BHU) Varanasi** — Class of 2023, CGPA **8.26**.
 
-- 🤖 Building **VisionAI**, a multi-agent AI workspace powered by LangGraph, RAG, and multimodal LLMs.
-- 📈 Developing a **Quant Trading & Research Platform** for Indian equities, futures, and options.
-- ⚙️ Exploring scalable backend architectures, real-time data processing, and performance optimization.
-- ☁️ Building full-stack applications with containerized services and automated cloud deployment.
-- 🎓 B.Tech from **IIT (BHU) Varanasi**, Class of 2023.
+> Systems that stay correct under load — and ship.
 
-> Building intelligent systems that solve real problems.
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+## 💼 Experience
+
+<table>
+
+<tr>
+<td width="210" valign="top">
+  <b>Goldman Sachs</b><br/>
+  <sub>Analyst</sub><br/>
+  <sub><code>Jun 2025 — Present</code></sub><br/>
+  <sub>Bengaluru</sub>
+</td>
+<td valign="top">
+  <b>Banker Copilot</b> — full-stack agentic AI platform for multi-agent financial research: secure semantic retrieval over PostgreSQL/pgvector, peer analysis and cited report generation, with asynchronous document ingestion on Celery + Redis.<br/><br/>
+  <b>Equity Derivatives</b> — ML-driven options trading analytics: real-time market data over Kafka, volatility forecasting with XGBoost, Greeks-based risk and historical strategy simulation, shipped as containers on Docker + Kubernetes.<br/><br/>
+  <code>Python</code> <code>TypeScript</code> <code>C++</code> <code>Golang</code> <code>FastAPI</code> <code>LangGraph</code> <code>AWS Bedrock</code> <code>pgvector</code> <code>Kafka</code> <code>Kubernetes</code>
+</td>
+</tr>
+
+<tr>
+<td width="210" valign="top">
+  <b>Casahealth Tech</b><br/>
+  <sub>Software Engineer II</sub><br/>
+  <sub><code>Feb 2025 — Jun 2025</code></sub>
+</td>
+<td valign="top">
+  <b>Healthcare Workflow Engine</b> — multi-tenant EMR platform automating appointment scheduling, clinical workflows and patient records through event-driven processing, configurable state transitions, idempotent execution, retries and audit logging.<br/><br/>
+  <code>Java</code> <code>Spring Boot</code> <code>RabbitMQ</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code>
+</td>
+</tr>
+
+<tr>
+<td width="210" valign="top">
+  <b>Edfora Infotech</b><br/>
+  <sub>Software Engineer</sub><br/>
+  <sub><code>Jun 2023 — Feb 2025</code></sub>
+</td>
+<td valign="top">
+  <b>Assessment Engine</b> — online/offline platform for <b>100K+ concurrent users</b> and 80K+ exam responses; optimized scoring, rankings and leaderboards — <b>latency −40%</b>, <b>throughput +35%</b>.<br/><br/>
+  <b>AI Knowledge Engine</b> — semantic question processing across <b>2M+ questions</b> with OCR/LaTeX extraction, NLP classification and vector similarity search — <b>duplicates −95%</b>.<br/><br/>
+  <b>Personalized Learning Engine</b> — ML recommendations combining performance analytics and question metadata — <b>engagement +20%</b>.<br/><br/>
+  <code>C++</code> <code>Rust</code> <code>Node.js</code> <code>FastAPI</code> <code>Kafka</code> <code>MongoDB</code> <code>FAISS / Pinecone</code> <code>XGBoost</code> <code>AWS SQS</code>
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -165,10 +222,11 @@ walk-forward validation, and pre-trade risk controls.
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square" alt="In Progress"/>
+<img src="https://img.shields.io/badge/Repo-Private-6B7280?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Private repository"/>
 
-<a href="https://github.com/iitian-gopu/algo-platform">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Quant Platform Source Code"/>
-</a>
+<br/><br/>
+
+<sub>Private repository — happy to walk through the design.</sub>
 
 </td>
 
@@ -320,6 +378,55 @@ S3 artifact storage, reverse-proxy routing, and streamed build logs.
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=iitian-gopu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7053C1&amp;icon_color=7053C1&amp;text_color=808080&amp;rank_icon=github"
+  alt="GitHub stats"
+/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitian-gopu&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7053C1&amp;text_color=808080"
+  alt="Top languages"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=iitian-gopu&amp;hide_border=true&amp;background=00000000&amp;ring=7053C1&amp;fire=7053C1&amp;currStreakLabel=7053C1&amp;sideLabels=808080&amp;dates=808080&amp;stroke=808080"
+  alt="Contribution streak"
+/>
+
+</div>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <h3>🥇 Global Rank 402</h3>
+  <b>TCS CodeVita — Season 10</b><br/>
+  <sub>among 100K+ participants worldwide</sub>
+</td>
+<td width="50%" align="center">
+  <h3>🎯 Top 5%</h3>
+  <b>Finalist — Jumpstart '22, Publicis Sapient</b><br/>
+  <sub>of 29K+ participants</sub>
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ===================== CONNECT ===================== -->
 
 ## 📫 Let's Connect
@@ -344,6 +451,10 @@ S3 artifact storage, reverse-proxy routing, and streamed build logs.
 
 <a href="https://github.com/iitian-gopu">
   <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://portfolio-gopal-jaiswals-projects.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-See_My_Work-7053C1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
