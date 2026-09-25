@@ -298,6 +298,130 @@ S3 artifact storage, reverse-proxy routing, and streamed build logs.
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎤 AI HireBooster</h3>
+
+<p>
+A full-stack AI interview coach — upload a resume, get a role-specific technical or HR interview with voice answering, per-answer evaluation and a downloadable performance report.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
+
+<code>React</code>
+<code>Vite</code>
+<code>Redux Toolkit</code>
+<code>Node.js</code>
+<code>Express.js</code>
+<code>MongoDB</code>
+<code>Firebase Auth</code>
+<code>OpenRouter</code>
+<code>Razorpay</code>
+
+<br/><br/>
+
+<a href="https://ai-hire-booster.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="AI HireBooster live demo"/>
+</a>
+<a href="https://github.com/iitian-gopu/ai-hire-booster">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="ai-hire-booster source"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3> 🧩 PageChat</h3>
+
+<p>
+A Chrome extension and FastAPI backend that answers questions about the page you are on — retrieval over the page content, with a live web-search fallback when the answer is not there.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
+
+<code>Python</code>
+<code>FastAPI</code>
+<code>Chrome Extension</code>
+<code>RAG</code>
+<code>LLMs</code>
+<code>Render</code>
+
+<br/><br/>
+
+<a href="https://github.com/iitian-gopu/pagechat">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="pagechat source"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎬 MagicStream</h3>
+
+<p>
+A movie streaming platform with a React client and a Go/Gin API — catalog browsing, JWT refresh-token auth in HttpOnly cookies, and an LLM that classifies admin reviews into ranking categories.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
+
+<code>Go</code>
+<code>Gin</code>
+<code>React</code>
+<code>MongoDB</code>
+<code>JWT</code>
+<code>LangChainGo</code>
+<code>OpenAI</code>
+
+<br/><br/>
+
+<a href="https://github.com/iitian-gopu/magic-stream">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="magic-stream source"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐦 Twitter Clone</h3>
+
+<p>
+Type-safe Twitter clone with Google OAuth, tweets with images, likes and follows — a GraphQL API on Node with Prisma and Postgres behind a Next.js client.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
+
+<code>Next.js</code>
+<code>GraphQL</code>
+<code>Prisma</code>
+<code>PostgreSQL</code>
+<code>Redis</code>
+<code>AWS S3</code>
+
+<br/><br/>
+
+<a href="https://github.com/IITIAN-GOPU20/Twitter-Client">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="IITIAN-GOPU20/Twitter-Client source"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
 <div align="right">
