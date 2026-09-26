@@ -144,6 +144,24 @@ Software engineer working where **AI meets finance**. At **Goldman Sachs** I bui
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
+## 🖥️ Portfolio
+
+<div align="center">
+
+<a href="https://portfolio-gopal-jaiswals-projects.vercel.app">
+  <img src="assets/portfolio-demo.gif" width="720" alt="Walkthrough of gopaljaiswal.dev portfolio"/>
+</a>
+
+<br/>
+
+<a href="https://portfolio-gopal-jaiswals-projects.vercel.app">
+  <img src="https://img.shields.io/badge/Visit_the_live_site-7053C1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live portfolio"/>
+</a>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
