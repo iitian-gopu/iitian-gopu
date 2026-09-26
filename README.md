@@ -22,14 +22,14 @@
 <h2>Hey there! I'm Gopal 👋</h2>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B9DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Analyst+%40+Goldman+Sachs;AI+%26+Agentic+Systems+Engineer;Quant+Systems+Builder;Distributed+Systems+%26+Backend"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B9DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+Engineering+Analyst+%40+Goldman+Sachs;AI+%26+Agentic+Systems+Engineer;Quant+Systems+Builder;Distributed+Systems+%26+Backend"
   alt="Animated typing introduction"
 />
 
 <br/>
 
 <p>
-  <b>🏦 Analyst @ Goldman Sachs</b> &nbsp;·&nbsp; <b>🎓 IIT (BHU) Varanasi '23</b>
+  <b>🏦 Software Engineering Analyst @ Goldman Sachs</b> &nbsp;·&nbsp; <b>🎓 IIT (BHU) Varanasi '23</b>
 </p>
 
 <p>
@@ -81,7 +81,7 @@
 
 Software engineer working where **AI meets finance**. At **Goldman Sachs** I build agentic AI research tooling for Investment Banking and ML-driven analytics for Equity Derivatives. Before that I scaled assessment and semantic-search systems in ed-tech, and a multi-tenant EMR platform in health-tech.
 
-- 🏦 **Analyst @ Goldman Sachs** — Banker Copilot (LangGraph · AWS Bedrock · pgvector) and options analytics in C++/Golang/Python.
+- 🏦 **Software Engineering Analyst @ Goldman Sachs** — Banker Copilot (LangGraph · AWS Bedrock · pgvector) and options analytics in C++/Golang/Python.
 - 🤖 Building **VisionAI**, a multi-agent AI workspace on LangGraph with RAG and multimodal LLMs.
 - 📈 Building a **Quant Trading & Research Platform** — market-data pipelines, event-driven backtesting, walk-forward ML and pre-trade risk.
 - ⚡ Scaled an assessment engine to **100K+ concurrent users** — latency **−40%**, throughput **+35%**.
@@ -101,7 +101,7 @@ Software engineer working where **AI meets finance**. At **Goldman Sachs** I bui
 <tr>
 <td width="210" valign="top">
   <b>Goldman Sachs</b><br/>
-  <sub>Analyst</sub><br/>
+  <sub>Software Engineering Analyst</sub><br/>
   <sub><code>Jun 2025 — Present</code></sub><br/>
   <sub>Bengaluru</sub>
 </td>
@@ -336,7 +336,7 @@ A full-stack AI interview coach — upload a resume, get a role-specific technic
 
 <td width="50%" valign="top">
 
-<h3> 🧩 PageChat</h3>
+<h3>🧩 PageChat</h3>
 
 <p>
 A Chrome extension and FastAPI backend that answers questions about the page you are on — retrieval over the page content, with a live web-search fallback when the answer is not there.
