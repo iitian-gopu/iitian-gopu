@@ -12,9 +12,10 @@
 <br/>
 
 <img
-  src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif"
-  width="260"
-  alt="Animated human developer working at a computer"
+  src="assets/hero.gif"
+  width="440"
+  alt="Gopal Jaiswal — animated intro"
+  style="border-radius:16px"
 />
 
 <br/>
