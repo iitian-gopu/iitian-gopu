@@ -217,9 +217,11 @@ image generation, and multimodal AI.
 <h3>📈 Quant Trading & Research Platform</h3>
 
 <p>
-An India-focused algorithmic trading platform integrating market-data
-pipelines, event-driven backtesting, ML strategy research,
-walk-forward validation, and pre-trade risk controls.
+A multi-asset, India-first systematic trading platform covering the full
+path from raw market data to live orders: NSE ingest to Parquet, feature
+engineering with streaming/batch parity, an event-driven backtester,
+walk-forward research with Optuna sweeps, and pre-trade risk gates with a
+kill-switch. Backtest and live read byte-identical data.
 </p>
 
 <b>Tech Stack</b>
@@ -240,12 +242,14 @@ walk-forward validation, and pre-trade risk controls.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square" alt="In Progress"/>
-<img src="https://img.shields.io/badge/Repo-Private-6B7280?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Private repository"/>
+<img src="https://img.shields.io/badge/11-Python_packages-16A34A?style=flat-square" alt="11 packages"/>
+<img src="https://img.shields.io/badge/1--min_→_daily-bars-0D9488?style=flat-square" alt="1-minute to daily bars"/>
+<img src="https://img.shields.io/badge/60%2B-ADRs-0EA5E9?style=flat-square" alt="60+ ADRs"/>
+<img src="https://img.shields.io/badge/Repo-Proprietary-6B7280?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Proprietary"/>
 
 <br/><br/>
 
-<sub>Private repository — happy to walk through the design.</sub>
+<sub>Proprietary — happy to walk through the architecture and results.</sub>
 
 </td>
 
